@@ -19,5 +19,5 @@ A **Streamlit**-based web application that allows users to **register**, **login
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/secure-data-encryption-app.git
+   https://github.com/Hira-Tech-GenAi/assignment_5_giaic.git
    cd secure-data-encryption-app
