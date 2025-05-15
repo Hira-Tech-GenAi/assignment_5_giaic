@@ -1,0 +1,17 @@
+{
+    "users": {
+        "Momin": {
+            "hashed_password": "e1wEnCK_E98cdvsOTMBYEOSzoYJoYssZLmo3UoUw7BQ=",
+            "salt": "em/EaNHWyQJTB1H/2OrD0Q=="
+        }
+    },
+    "data": {
+        "Momin": {
+            "data1": {
+                "encrypted_text": "gAAAAABoJefZ05PN8r2Uqo2B92vfNyuY9u5IEedgCywqXegBpdsANTtNjyKDbpq-W3D3BmkWw0bfSC63HZSZpxHA3oDXKf0peQ==",
+                "passkey": "VWxWnUqxNM6KK32cLo_U0zXGqUMH0PFu6LDEubBLwb8=",
+                "salt": "Iaf3LOCtn6NEW+eHt5F1SQ=="
+            }
+        }
+    }
+}
